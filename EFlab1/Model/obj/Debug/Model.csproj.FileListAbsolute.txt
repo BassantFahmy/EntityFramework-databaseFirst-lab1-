@@ -1,0 +1,10 @@
+E:\ITI\entityFramework\lab1\firstlab\EFlab1\Model\bin\Debug\Model.dll.config
+E:\ITI\entityFramework\lab1\firstlab\EFlab1\Model\bin\Debug\Model.dll
+E:\ITI\entityFramework\lab1\firstlab\EFlab1\Model\bin\Debug\Model.pdb
+E:\ITI\entityFramework\lab1\firstlab\EFlab1\Model\bin\Debug\EntityFramework.dll
+E:\ITI\entityFramework\lab1\firstlab\EFlab1\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITI\entityFramework\lab1\firstlab\EFlab1\Model\bin\Debug\EntityFramework.xml
+E:\ITI\entityFramework\lab1\firstlab\EFlab1\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITI\entityFramework\lab1\firstlab\EFlab1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\ITI\entityFramework\lab1\firstlab\EFlab1\Model\obj\Debug\Model.dll
+E:\ITI\entityFramework\lab1\firstlab\EFlab1\Model\obj\Debug\Model.pdb
